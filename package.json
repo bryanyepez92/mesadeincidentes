@@ -1,13 +1,13 @@
 {
   "name": "consumo_api_help_desk",
   "version": "1.0.0",
-  "description": "",
-  "main": "jsontableau.js",
+  "description": ".",
+  "main": "index.js",
   "engines": {
     "node": "14.x"
   },
   "scripts": {
-    "start":"node jsontableau.js",
+    "start":"node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
